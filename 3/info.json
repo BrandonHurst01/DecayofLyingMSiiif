@@ -1,6 +1,6 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "scaleFactors" : [ 1, 2],
     "width" : 512,
     "height" : 512
   } ],
@@ -23,7 +23,8 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1057,
-  "@id" : "http://localhost:8887/iiif/3",
+  "@id" : "https://brandonhurst01.github.io/DecayofLyingMSiiif/3",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1685
+
 }
