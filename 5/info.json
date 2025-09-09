@@ -1,0 +1,29 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "width" : 512,
+    "height" : 512
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 208,
+    "height" : 337
+  }, {
+    "width" : 260,
+    "height" : 422
+  }, {
+    "width" : 346,
+    "height" : 563
+  }, {
+    "width" : 520,
+    "height" : 844
+  }, {
+    "width" : 1040,
+    "height" : 1689
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1040,
+  "@id" : "http://localhost:8887/iiif/5",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1689
+}
