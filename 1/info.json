@@ -23,7 +23,8 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1056,
-  "@id" : "http://localhost:8887/iiif/1",
+  "@id" : "https://brandonhurst01.github.io/DecayofLyingMSiiif/1",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1685
+
 }
